@@ -3,6 +3,7 @@ while True:
     if a=="q":
         print("valid input")
         break
-    elif a!="q":
+    else: 
         print("invalid input")
        
+    
